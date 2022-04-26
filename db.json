@@ -1,8 +1,8 @@
 {
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" },
-    { "id": 2, "title": "react", "author": "Jordan Walke" }
-    { "id": 3, "title": "angular", "author": "Google Team" }
+    { "id": 2, "title": "react", "author": "Jordan Walke" },
+    { "id": 3, "title": "angular", "author": "Google Team" },
     { "id": 4, "title": "vue", "author": "Evan You" }
   ],
   "comments": [
